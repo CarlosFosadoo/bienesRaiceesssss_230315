@@ -9,6 +9,7 @@ Para poder demostrar y aprender la creación y consumo de Interfaces de Programa
 |No.|Fecha |Descripción|Potenciador|Estatus|
 |--|--|--|--|--|
 |8.|17/10/2024|Nuevo Repositorio del Proyecto implementando .gitignore|1| ✅finalizada|
+|9.|12/10/2024|se creo la carpeta de index utilizando Node js|1| ✅finalizada|
 
 ### Autor
  **Carlos Isaac Fosado Escudero** / [@CarlosFosadoo](https://github.com/CarlosFosadoo)
