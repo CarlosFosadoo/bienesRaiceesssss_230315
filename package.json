@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/CarlosFosadoo/bienesRaiceesssss_230315#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "pug": "^3.0.3"
   }
 }

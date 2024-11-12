@@ -6,12 +6,17 @@ import userRoutes from './routes/userRoutes.js'
 //INSTANCIAR NUESTRA APLICACIÓN WEB
 
 const app = express();
+//habilitar pug
+app.set('view engine' , 'pug')
+app.set('views', './views')
 
 //CONFIGURAMOS NUESTRO SERVIDOR WEB (puerto donde estara escuchando nuestro sitio web)
 const port = 3000;
 app.listen(port, () => {
   console.log(`La aplicación ha iniciado en el puerto: ${port}`);  
 });
+
+
 
 //Routing - Enrutamiento
 app.use('/',generalRoutes);
